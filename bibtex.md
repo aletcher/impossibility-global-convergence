@@ -2,8 +2,8 @@
 title={Stable Opponent Shaping in Differentiable Games},
 author={Alistair Letcher and Jakob Foerster and David Balduzzi and Tim Rocktäschel and Shimon Whiteson},
 booktitle={International Conference on Learning Representations},
-year={2019},
-url={https://openreview.net/forum?id=SyGjjsC5tQ} }
+year={2019}
+}
 
 @inproceedings{lola,
 author={Jakob N. Foerster and Richard Y. Chen and Maruan Al{-}Shedivat and Shimon Whiteson and Pieter Abbeel and Igor Mordatch},
