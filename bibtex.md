@@ -35,7 +35,8 @@ year={2018}
 @article{eg_2019,
 title={A Tight and Unified Analysis of Extragradient for a Whole Spectrum of Differentiable Games},
 author={Azizian, Wa{"\i}ss and Mitliagkas, Ioannis and Lacoste-Julien, Simon and Gidel, Gauthier},
-journal={arXiv preprint arXiv:1906.05945},
+journal = {ArXiv e-prints},
+eprint={1906.05945},
 year={2019}
 }
 
@@ -46,9 +47,17 @@ journal={arXiv preprint arXiv:1905.12103},
 year={2019}
 }
 
-@article{lss,
-title={On Finding Local Nash Equilibria (and Only Local Nash Equilibria) in Zero-Sum Games},
-author={Eric V. Mazumdar and Michael I. Jordan and S. Shankar Sastry},
+@article{agd,
+title={Finite Regret and Cycles with Fixed Step-Size via Alternating Gradient Descent-Ascent},
+author={James P. Bailey and Gauthier Gidel and Georgios Piliouras},
 year={2019},
-journal={arXiv preprint arXiv:1901.00838},
+eprint={1907.04392},
+journal = {ArXiv e-prints},
+}
+
+@inproceedings{omd,
+author = {{Daskalakis}, C. and {Ilyas}, A. and {Syrgkanis}, V. and {Zeng}, H.},
+title = "{Training GANs with Optimism}",
+booktitle={International Conference on Learning Representations},
+year = 2018,
 }
